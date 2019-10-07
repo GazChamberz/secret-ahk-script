@@ -73,7 +73,7 @@ key_glock:="F10"		; P2020
 key_peacekeeper:="F11"	; Peacekeeper (glicth)
 
 ; SENSITIVITY
-sens:=5.0				; your sensitivity
+sens:=2.5				; your sensitivity
 zoomsens:=1.0			; your zoom sensitivity
 ; VOICE
 rate = 7				; 0 default, >0 to speed up, <0 to slow down
